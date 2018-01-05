@@ -1,4 +1,4 @@
-# Global-Charity
+# Global-Charity (Website)
 
 What is Global Charity?
 
