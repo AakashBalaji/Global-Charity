@@ -9,7 +9,7 @@ Global Charity is a new app that encourages charitable acts through easy access 
 ![capture](https://user-images.githubusercontent.com/23457788/34634876-53c4c73e-f23d-11e7-95f2-d453a2d3566c.PNG)
 
 
-Why was this App Made?
+Why was this App Made?(Coming soon)
 
 Disastrous world events and oppressive policies incite harm on people all over the world every day. The problem is that there are plenty of people in this world with a small amount of money that they can donate to help out the cause. Everything counts. Unfortunately, most people are not aware of these events and do not know how to contribute even though they wanted to. Looking for a good charity that properly allocates their fund to the situation is hard to find, and our goal is to make this easier while educating donors about the events. With this in mind, our team’s intention to create an app that would make it much more easier to donate and help out charitable foundations during major events.
 
